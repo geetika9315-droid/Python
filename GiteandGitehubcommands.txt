@@ -1,0 +1,34 @@
+Git >> Version control
+
+    v1
+    v2
+    v3
+new v4
+
+
+>> It is distributed (on Cloud)
+>> Collaboration
+>> Tracking Changes
+>> Recovery 
+
+https://git-scm.com/downloads
+
+GitHub
+BitBucket
+Gitlabs
+GitPod 
+
+>> For 1st time need to configure github in our system
+git config --global user.name "geetika9315-droid"
+git config --global user.email "geetika9315@gmail.com"
+
+git config --global color.ui auto
+
+Mandatory Commands:
+>> git init
+>> git remote add origin https://github.com/geetika9315-droid/Python.git
+
+
+
+
+git pull origin main
